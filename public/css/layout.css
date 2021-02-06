@@ -185,7 +185,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: #000;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -201,7 +201,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #c5c5c5;
 }
 #about .profile-pic {
    position: relative;
@@ -217,7 +217,7 @@ ul#nav li.current a { color: #F06000; }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
    margin-top: 6px;
-   background: #444;
+   background: #1b1b1b;
 }
 #about .download .button:hover {
    background: #fff;
@@ -296,7 +296,7 @@ ul#nav li.current a { color: #F06000; }
 .bars li {
    position: relative;
   	margin-bottom: 60px;
-  	background: #ccc;
+  	background: #eaeaea;
   	height: 42px;
   	border-radius: 3px;
 }
@@ -316,7 +316,7 @@ ul#nav li.current a { color: #F06000; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background: #000;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
