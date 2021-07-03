@@ -1,19 +1,19 @@
 {
   "main": {
-    "name":"PRASHANT",
+    "name":"PRASHANT MAURYA",
     "occupation":"Font End Developer / UI Developer",
     "description":"Experienced Frontend Developer of working in the information technology and services industry",
     "image":"profilepic.jpg",
     "bio":"Experienced Frontend Developer of working in the information technology and services industry. Skilled in Bootstrap, Cascading Style Sheets (CSS), HTML, JS, and Management. Strong engineering professional with a Bachelor of Technology (BTech) focused in Computer Science from Haryana Engineering College, Jagadhri. ",
     "email": "pmforreal@gmail.com",
-    "phone": "9896044557",
+    "phone": "+91-9896044557",
     "address":{
       "city":"Ahmedabad",
       "state":"Gujarat",
-      "zip": "(Your Zip/Postal Code)"
+      "zip": ""
     },
     "website": "",
-    "resumedownload":"",
+    "resumedownload":"resume/Resume.pdf",
     "social":[
       {
         "name":"facebook",
@@ -58,7 +58,7 @@
       },
       {
         "school":"MVM Public School",
-        "degree":"12",
+        "degree":"Higher secondary",
         "graduated":"June 2014",
         "description":""
       }
@@ -66,7 +66,7 @@
     "work":[
       {
         "company":"Evince Development",
-        "title":"Senior UI/UX God ",
+        "title":"Senior UI Developer // Front End Developer",
         "years":"June 2017 - Present",
         "description":""
       }
