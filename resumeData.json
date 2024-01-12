@@ -1,105 +1,84 @@
 {
   "main": {
-    "name":"PRASHANT MAURYA",
-    "occupation":"Font End Developer",
-    "description":"Experienced Frontend Developer of working in the information technology and services industry",
-    "image":"profilepic-new.jpg",
-    "bio":"Experienced Frontend Developer of working in the information technology and services industry. Skilled in Bootstrap, Cascading Style Sheets (CSS), HTML, JS, and Management. Strong engineering professional with a Bachelor of Technology (BTech) focused in Computer Science from Haryana Engineering College, Jagadhri. ",
+    "name": "PRASHANT MAURYA",
+    "occupation": "Font End Developer",
+    "description": "Experienced Frontend Developer of working in the information technology and services industry",
+    "image": "Prashant_Maurya.jpg",
+    "bio": "Experienced Frontend Developer of working in the information technology and services industry. Skilled in Bootstrap, Cascading Style Sheets (CSS), HTML, JS, and Management. Strong engineering professional with a Bachelor of Technology (BTech) focused in Computer Science from Haryana Engineering College, Jagadhri. ",
     "email": "prashantmaurya18@yahoo.in",
     "phone": "+91-9896044557",
-    "address":{
-      "city":"",
-      "state":""
-    },
-    "website": "",
-    "resumedownload":"/resume/Prashant-Maurya.pdf",
-    "social":[
+    "resumedownload": "/resume/Prashant-Maurya.pdf",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/prashantkumarmaurya/",
-        "className":"fa fa-facebook"
+        "name": "github",
+        "url": "http://github.com/iampkmaurya",
+        "className": "fa fa-github"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com/iampkmaurya",
-        "className":"fa fa-twitter"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/prashantkumarmaurya/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/prashantkumarmaurya/",
-        "className":"fa fa-linkedin"
+        "name": "twitter",
+        "url": "http://twitter.com/iampkmaurya",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/iampkmaurya",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"http://github.com/iampkmaurya",
-        "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"https://join.skype.com/invite/YIVxvVNfRlCB",
-        "className":"fa fa-skype"
+        "name": "skype",
+        "url": "https://join.skype.com/invite/YIVxvVNfRlCB",
+        "className": "fa fa-skype"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"",
-    "education":[
+  "resume": {
+    "education": [
       {
-        "school":"KUK University",
-        "degree":"B.Tech (CSE)",
-        "graduated":"June 2017"
-      },
-      {
-        "school":"MVM Public School",
-        "degree":"Higher Secondary",
-        "graduated":"June 2013"
+        "school": "KUK University",
+        "degree": "B.Tech (CSE)",
+        "graduated": "June 2017"
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Infosys Pvt Ltd.",
-        "title":"Technology Analyst",
-        "years":"June 2022 - Present"
+        "company": "Infosys Pvt Ltd.",
+        "title": "Technology Analyst",
+        "years": "June 2022 - Present"
       },
       {
-        "company":"Evince Development",
-        "title":"Senior UI Developer // Front End Developer",
-        "years":"Jan 2018 - May 2022"
+        "company": "Evince Development",
+        "title": "Senior UI Developer // Front End Developer",
+        "years": "Jan 2018 - May 2022"
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Git / AzureDevOps",
-        "level":"70%"
+        "name": "React JS",
+        "level": "75%"
       },
       {
-        "name":"Photoshop / Figma",
-        "level":"55%"
+        "name": "Redux JS",
+        "level": "70%"
       },
       {
-        "name":"ReactJs",
-        "level":"30%"
+        "name": "Java Script",
+        "level": "70%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "HTML5",
+        "level": "90%"
       },
       {
-        "name":"HTML5",
-        "level":"90%"
+        "name": "CSS",
+        "level": "90%"
       },
       {
-        "name":"Bootstrap",
-        "level":"90%"
+        "name": "Git / AzureDevOps",
+        "level": "60%"
       },
       {
-        "name":"Jquery",
-        "level":"65%"
+        "name": "Photoshop / Figma",
+        "level": "80%"
       }
     ]
   }
