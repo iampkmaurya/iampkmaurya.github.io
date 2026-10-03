@@ -32,7 +32,7 @@
     "headline": "Transforming Ideas Into Polished Digital Experiences",
     "stats": [
       {
-        "value": "7+",
+        "value": "8+",
         "label": "Years Exp."
       },
       {
@@ -44,12 +44,7 @@
         "label": "Location"
       }
     ],
-    "highlights": [
-      "Accenture",
-      "Infosys",
-      "React & Node.js",
-      "Open for Work"
-    ],
+    "highlights": ["Accenture", "Infosys", "React & Node.js", "Open for Work"],
     "capabilities": [
       {
         "icon": "fa fa-desktop",
@@ -79,19 +74,15 @@
         "school": "KUK University",
         "degree": "B.Tech (CSE)",
         "graduated": "June 2017",
-        "tags": [
-          "Computer Science Engineering",
-          "B.Tech Degree",
-          "Graduated"
-        ],
+        "tags": ["Computer Science Engineering", "B.Tech Degree", "Graduated"],
         "description": "Bachelor of Technology in Computer Science from Haryana Engineering College, Jagadhri (Kurukshetra University)."
       }
     ],
     "work": [
       {
         "company": "Accenture",
-        "title": "Senior Software Engineer // Full Stack Developer",
-        "years": "2023 - Present",
+        "title": "Team Lead // Full Stack Developer",
+        "years": "Feb 2024 - Present",
         "description": "Leading full-stack engineering initiatives, architecting scalable web applications with React, Node JS, and cloud integrations.",
         "skills": [
           "React JS",
@@ -104,14 +95,9 @@
       {
         "company": "Infosys Pvt Ltd.",
         "title": "Technology Analyst",
-        "years": "June 2022 - 2023",
+        "years": "June 2022 - Jan 2024",
         "description": "Engineered enterprise web applications, reusable UI component systems, and state management workflows using React and Redux.",
-        "skills": [
-          "React JS",
-          "Redux",
-          "JavaScript",
-          "Azure DevOps"
-        ]
+        "skills": ["React JS", "Redux", "JavaScript", "Azure DevOps"]
       },
       {
         "company": "Evince Development",
@@ -133,7 +119,7 @@
       },
       {
         "name": "Node JS",
-        "level": "75%"
+        "level": "70%"
       },
       {
         "name": "Redux JS",
