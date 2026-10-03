@@ -1,13 +1,15 @@
 {
   "main": {
     "name": "PRASHANT MAURYA",
-    "occupation": "Font End Developer",
-    "description": "Experienced Frontend Developer of working in the information technology and services industry",
+    "occupation": "Full Stack Developer",
+    "location": "Noida, India",
+    "description": "Experienced Full Stack Developer specializing in React, Node.js, and modern cloud architectures",
     "image": "Prashant_Maurya.jpg",
-    "bio": "Experienced Frontend Developer of working in the information technology and services industry. Skilled in Bootstrap, Cascading Style Sheets (CSS), HTML, JS, and Management. Strong engineering professional with a Bachelor of Technology (BTech) focused in Computer Science from Haryana Engineering College, Jagadhri. ",
+    "bio": "Experienced Full Stack Developer with a proven track record in building high-performance web applications, scalable APIs, and intuitive user experiences. Proficient in React JS, Redux, Node JS, JavaScript (ES6+), HTML5, CSS3, Git, and Azure DevOps. Strong engineering professional with a B.Tech in Computer Science from Haryana Engineering College, Jagadhri (KUK University).",
     "email": "prashantmaurya18@yahoo.in",
     "phone": "+91-9896044557",
     "resumedownload": "/resume/Prashant-Maurya.pdf",
+    "availability": "Available for Opportunities",
     "social": [
       {
         "name": "github",
@@ -23,11 +25,51 @@
         "name": "twitter",
         "url": "http://twitter.com/iampkmaurya",
         "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "about": {
+    "headline": "Transforming Ideas Into Polished Digital Experiences",
+    "stats": [
+      {
+        "value": "7+",
+        "label": "Years Exp."
       },
       {
-        "name": "skype",
-        "url": "https://join.skype.com/invite/YIVxvVNfRlCB",
-        "className": "fa fa-skype"
+        "value": "Full Stack",
+        "label": "Specialist"
+      },
+      {
+        "value": "Noida",
+        "label": "Location"
+      }
+    ],
+    "highlights": [
+      "Accenture",
+      "Infosys",
+      "React & Node.js",
+      "Open for Work"
+    ],
+    "capabilities": [
+      {
+        "icon": "fa fa-desktop",
+        "title": "Frontend Architecture",
+        "description": "Architecting modular, scalable single-page applications using modern React, Redux, and functional component patterns."
+      },
+      {
+        "icon": "fa fa-server",
+        "title": "Backend & API Integration",
+        "description": "Building robust server-side APIs, microservices, and seamless integrations using Node JS, Express, and RESTful architectures."
+      },
+      {
+        "icon": "fa fa-bolt",
+        "title": "Performance & Web Vitals",
+        "description": "Optimizing asset delivery, rendering performance, layout stability, and responsiveness for exceptional user experience."
+      },
+      {
+        "icon": "fa fa-code-fork",
+        "title": "DevOps & Collaboration",
+        "description": "Proficient in Git workflows, Azure DevOps version control, cross-functional collaboration, and Agile delivery."
       }
     ]
   },
@@ -36,50 +78,92 @@
       {
         "school": "KUK University",
         "degree": "B.Tech (CSE)",
-        "graduated": "June 2017"
+        "graduated": "June 2017",
+        "tags": [
+          "Computer Science Engineering",
+          "B.Tech Degree",
+          "Graduated"
+        ],
+        "description": "Bachelor of Technology in Computer Science from Haryana Engineering College, Jagadhri (Kurukshetra University)."
       }
     ],
     "work": [
       {
+        "company": "Accenture",
+        "title": "Senior Software Engineer // Full Stack Developer",
+        "years": "2023 - Present",
+        "description": "Leading full-stack engineering initiatives, architecting scalable web applications with React, Node JS, and cloud integrations.",
+        "skills": [
+          "React JS",
+          "Node JS",
+          "Redux",
+          "JavaScript (ES6+)",
+          "Cloud / DevOps"
+        ]
+      },
+      {
         "company": "Infosys Pvt Ltd.",
         "title": "Technology Analyst",
-        "years": "June 2022 - Present"
+        "years": "June 2022 - 2023",
+        "description": "Engineered enterprise web applications, reusable UI component systems, and state management workflows using React and Redux.",
+        "skills": [
+          "React JS",
+          "Redux",
+          "JavaScript",
+          "Azure DevOps"
+        ]
       },
       {
         "company": "Evince Development",
         "title": "Senior UI Developer // Front End Developer",
-        "years": "Jan 2018 - May 2022"
+        "years": "Jan 2018 - May 2022",
+        "description": "Delivered responsive web interfaces, cross-browser compatible client portals, and mobile-friendly websites.",
+        "skills": [
+          "Frontend UI",
+          "HTML5 & CSS3",
+          "Bootstrap",
+          "Client Projects"
+        ]
       }
     ],
     "skills": [
       {
         "name": "React JS",
+        "level": "85%"
+      },
+      {
+        "name": "Node JS",
         "level": "75%"
       },
       {
         "name": "Redux JS",
-        "level": "70%"
+        "level": "80%"
       },
       {
-        "name": "Java Script",
-        "level": "70%"
+        "name": "JavaScript",
+        "level": "85%"
       },
       {
         "name": "HTML5",
         "level": "90%"
       },
       {
-        "name": "CSS",
+        "name": "CSS3 / Modern CSS",
         "level": "90%"
       },
       {
-        "name": "Git / AzureDevOps",
-        "level": "60%"
+        "name": "Git / Azure DevOps",
+        "level": "70%"
       },
       {
         "name": "Photoshop / Figma",
         "level": "80%"
       }
     ]
+  },
+  "contact": {
+    "availabilityTag": "Open for Full-Time Roles & Opportunities",
+    "title": "Let's Build Something Extraordinary Together",
+    "description": "I'm always interested in discussing new opportunities, full-stack architecture challenges, or high-impact projects. Feel free to reach out via email, phone, or LinkedIn."
   }
 }
